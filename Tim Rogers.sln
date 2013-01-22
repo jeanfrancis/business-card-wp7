@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tim Rogers", "Tim Rogers\Tim Rogers.csproj", "{2544C728-4FDD-475F-AF88-5505C2E8468D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jean-Francis AHANDA", "Tim Rogers\Tim Rogers.csproj", "{2544C728-4FDD-475F-AF88-5505C2E8468D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
