@@ -33,15 +33,15 @@
             </Grid.ColumnDefinitions>
             <Rectangle Height="625" HorizontalAlignment="Left" Margin="-121,-88,0,0" Name="rectangle1" Stroke="Black" StrokeThickness="1" VerticalAlignment="Top" Width="917" Fill="White" Grid.ColumnSpan="2" />
             <Image Height="250" HorizontalAlignment="Left" Margin="37,195,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="250" Source="/Tim%20Rogers;component/Resources/Photo.png" Grid.ColumnSpan="2" />
-            <TextBlock Height="107" HorizontalAlignment="Left" Margin="37,34,0,0" Name="textBlock1" Text="Tim Rogers" VerticalAlignment="Top" Foreground="Black" FontSize="48" Width="405" FontWeight="Bold" Grid.ColumnSpan="2" />
-            <TextBlock Height="30" HorizontalAlignment="Left" Margin="37,109,0,0" Name="textBlock2" Text="Student, Microsoft Student Partner (MSP) and Developer" VerticalAlignment="Top" Foreground="Black" Grid.ColumnSpan="2" />
+            <TextBlock Height="107" HorizontalAlignment="Left" Margin="37,34,0,0" Name="textBlock1" Text="Jean-Francis AHANDA" VerticalAlignment="Top" Foreground="Black" FontSize="48" Width="405" FontWeight="Bold" Grid.ColumnSpan="2" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="37,109,0,0" Name="textBlock2" Text="IT Project Manager" VerticalAlignment="Top" Foreground="Black" Grid.ColumnSpan="2" />
             <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="89,193,0,241" Name="textBlock3" Text="Email" Foreground="Black" FontWeight="Bold" FontSize="24" Width="76" />
-            <TextBlock Grid.Column="1" Height="30" HorizontalAlignment="Left" Margin="106,233,0,0" Name="textBlock4" Text="tim@tim-rogers.co.uk" VerticalAlignment="Top" Foreground="Black" />
+            <TextBlock Grid.Column="1" Height="30" HorizontalAlignment="Left" Margin="106,233,0,0" Name="textBlock4" Text="jean-francis@ahanda.me" VerticalAlignment="Top" Foreground="Black" />
             <TextBlock FontSize="24" FontWeight="Bold" Foreground="Black" Height="46" HorizontalAlignment="Left" Margin="89,268,0,0" Name="textBlock5" Text="Phone" VerticalAlignment="Top" Width="76" Grid.Column="1" />
-            <TextBlock Foreground="Black" Height="30" HorizontalAlignment="Left" Margin="106,308,0,0" Name="textBlock6" Text="UK: 01290 211 999" VerticalAlignment="Top" Grid.Column="1" />
+            <TextBlock Foreground="Black" Height="30" HorizontalAlignment="Left" Margin="106,308,0,0" Name="textBlock6" Text="CMR: +237 79 52 84 44 " VerticalAlignment="Top" Grid.Column="1" />
             <TextBlock Foreground="Black" Height="30" HorizontalAlignment="Left" Margin="106,344,0,0" Name="textBlock7" Text="US: (650) 681 0421" VerticalAlignment="Top" Grid.Column="1" />
             <TextBlock FontSize="24" FontWeight="Bold" Foreground="Black" Height="46" HorizontalAlignment="Left" Margin="89,384,0,0" Name="textBlock8" Text="Twitter" VerticalAlignment="Top" Width="90" Grid.Column="1" />
-            <TextBlock Foreground="Black" Height="30" HorizontalAlignment="Left" Margin="106,419,0,0" Name="textBlock9" Text="@timROGERS" VerticalAlignment="Top" Grid.Column="1" />
+            <TextBlock Foreground="Black" Height="30" HorizontalAlignment="Left" Margin="106,419,0,0" Name="textBlock9" Text="@jeanfrancis" VerticalAlignment="Top" Grid.Column="1" />
             <Image Grid.Column="1" Height="48" HorizontalAlignment="Left" Margin="429,426,0,0" Name="image2" Stretch="Fill" VerticalAlignment="Top" Width="48" Source="/Tim%20Rogers;component/Resources/appbar.next.rest.png" ImageFailed="image2_ImageFailed">
                 <toolkit:GestureService.GestureListener>
            
