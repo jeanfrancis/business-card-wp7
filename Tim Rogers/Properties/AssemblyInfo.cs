@@ -6,12 +6,12 @@ using System.Resources;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Tim Rogers Business Card")]
-[assembly: AssemblyDescription("Tim's business card")]
+[assembly: AssemblyTitle("Jean-Francis AHANDA Business Card")]
+[assembly: AssemblyDescription("Jean-Francis AHANDA card")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Tim Rogers")]
-[assembly: AssemblyProduct("Tim Rogers Business Card")]
-[assembly: AssemblyCopyright("Copyright © Tim Rogers 2011")]
+[assembly: AssemblyCompany("Jean-Francis AHANDA")]
+[assembly: AssemblyProduct("Jean-Francis AHANDA Business Card")]
+[assembly: AssemblyCopyright("Copyright © Jean-Francis AHANDA 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
